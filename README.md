@@ -35,7 +35,8 @@ Nevertheless, if you still want to use this entire EFI for your hack, some basic
 1. Clone the repo and extract the zip file
 2. Copy the 'EFI' folder to the EFI partition of your macOS installer USB
 3. Boot PC
-These instructions are intentionally vauge as I would prefer that you do a vanilla install.
+
+These instructions are intentionally vauge as starting fresh with a 'vanilla install' is recommended.
 A vanilla install guide can be found [here](https://dortania.github.io/OpenCore-Desktop-Guide).
 
 ## Credits
