@@ -16,12 +16,14 @@ Actual files will be uploaded soon
 - All NVMe drives in the M.2 slot will be properly detected as internal and not external 
 - AirPort card PCIe slot set as BuiltIn
 - Working Ethernet + it has been set as BuiltIn
+- Wi-Fi, BT, AirDrop, Continuity, Handoff, Apple Watch unlock, and everything else works **if you use the card listed here**. Not sure if any other cards will work (although they likely will if they're natively supported)
 - Kernel slide has been calculated and set so it'll actually boot macOS lol
 
 ## Known issues
 - Displays sometimes won't initialize properly on boot and nothing will be visible after the graphics driver loads. Workaround is to restart until displays do initialize properly when the video driver loads.
 - Sidecar doesn't work (normal for AMD hacks)
 - Apple Watch simulator in Xcode doesn't work (again, normal for AMD hacks)
+- Apple Watch unlock sometimes randomly doesn't work 
 
 ## Other
 - I have not configured DRM. It may or may not work.
