@@ -1,7 +1,8 @@
 # AB350 Gaming Hackintosh
 My EFI files for my desktop hack. Motherboard is a Gigabyte AB350 Gaming 1.
 
--=**no support is provided for this repo**=- - but if you do find actual issues, feel free to leave a github issue
+**I will not be providing support for this EFI, but if you find actual issues with this, you can leave a GitHub issue.**
+Contributions are welcomed to make this better for everyone.
 
 Actual files will be uploaded soon
 
@@ -26,5 +27,17 @@ Actual files will be uploaded soon
 - Apple Watch unlock sometimes randomly doesn't work 
 
 ## Other
-- I have not configured DRM. It may or may not work.
-- you will need to generate SMBIOS for iMacPro1,1 and put the info into the config.plist if you want working iServices
+- I have not configured DRM since I don't need it. I don't know if it works, it may or may not work.
+
+## Basic Installation Instructions
+For the record, I don't condone the use of pre-made EFIs for hackintoshes, everyone's computers can be different even if the hardware seems identical. I want to offer this EFI as a starting point for people who are having trouble setting up their hackintosh, and would prefer if you just looked at the config.plist to see what you need.
+Nevertheless, if you still want to use this entire EFI for your hack, some basic steps are below.
+1. Clone the repo and extract the zip file
+2. Copy the 'EFI' folder to the EFI partition of your macOS installer USB
+3. Boot PC
+These instructions are intentionally vauge as I would prefer that you do a vanilla install.
+A vanilla install guide can be found [here](https://dortania.github.io/OpenCore-Desktop-Guide).
+
+## Credits
+- everyone developing for the hackintosh community
+- the [dortania team](https://github.com/orgs/dortania/people)
