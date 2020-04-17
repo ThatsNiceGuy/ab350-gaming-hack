@@ -13,9 +13,9 @@ Actual files will be uploaded soon
 - Apple AirPort BCM943602CS Wireless card in first PCIe x1 slot
 
 ## "features"
-- Onboard audio configured properly, requires no further config
+- Onboard audio configured properly
 - All NVMe drives in the M.2 slot will be properly detected as internal and not external 
-- AirPort card PCIe slot set as BuiltIn
+- anything in the first PCIe x1 slot will be set as BuiltIn
 - Working Ethernet + it has been set as BuiltIn
 - Wi-Fi, BT, AirDrop, Continuity, Handoff, Apple Watch unlock, and everything else works **if you use the card listed here**. Not sure if any other cards will work (although they likely will if they're natively supported)
 - Kernel slide has been calculated and set so it'll actually boot macOS lol
