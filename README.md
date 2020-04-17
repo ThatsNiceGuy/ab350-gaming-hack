@@ -30,8 +30,8 @@ Actual files will be uploaded soon
 - I have not configured DRM since I don't need it. I don't know if it works, it may or may not work.
 
 ## Basic Installation Instructions
-For the record, I don't condone the use of pre-made EFIs for hackintoshes, everyone's computers can be different even if the hardware seems identical. I want to offer this EFI as a starting point for people who are having trouble setting up their hackintosh, and would prefer if you just looked at the config.plist to see what you need.
-Nevertheless, if you still want to use this entire EFI for your hack, some basic steps are below.
+For the record, I don't condone the use of pre-made EFIs for hackintoshes, everyone's computers can be different even if the hardware seems identical. I want to offer this EFI as a starting point for people who are having trouble setting up their hackintosh, and I would prefer if you just looked at the config.plist to see what you need to make your EFI work.
+Nevertheless, if you still want to use this entire EFI for your hack, some intentionally vauge instructions are below.
 1. Clone the repo and extract the zip file
 2. Copy the 'EFI' folder to the EFI partition of your macOS installer USB
 3. Boot PC
