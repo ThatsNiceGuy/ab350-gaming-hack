@@ -34,7 +34,8 @@ For the record, I don't condone the use of pre-made EFIs for hackintoshes, every
 Nevertheless, if you still want to use this entire EFI for your hack, some intentionally vauge instructions are below.
 1. Clone the repo and extract the zip file
 2. Copy the 'EFI' folder to the EFI partition of your macOS installer USB
-3. Boot PC
+3. Generate SMBIOS for iMacPro1,1 and add it to the config.plist
+4. Boot PC
 
 These instructions are intentionally vauge as starting fresh with a 'vanilla install' is recommended.
 A vanilla install guide can be found [here](https://dortania.github.io/OpenCore-Desktop-Guide).
