@@ -14,6 +14,7 @@ Actual files will be uploaded soon
 
 ## "features"
 - Onboard audio configured properly
+- I *think* sleep works but don't quote me on that
 - All NVMe drives in the M.2 slot will be properly detected as internal and not external 
 - anything in the first PCIe x1 slot will be set as BuiltIn
 - Working Ethernet + it has been set as BuiltIn
@@ -22,8 +23,8 @@ Actual files will be uploaded soon
 
 ## Known issues
 - Displays sometimes won't initialize properly on boot and nothing will be visible after the graphics driver loads. Workaround is to restart until displays do initialize properly when the video driver loads.
-- Sidecar doesn't work (normal for AMD hacks)
-- Apple Watch simulator in Xcode doesn't work (again, normal for AMD hacks)
+- Sidecar doesn't work (supposedly other people got it to work but I never could (tried different SMBIOS and many boot args).
+- Apple Watch simulator in Xcode doesn't work (normal for AMD hacks apparently)
 - Apple Watch unlock sometimes randomly doesn't work 
 
 ## Other
