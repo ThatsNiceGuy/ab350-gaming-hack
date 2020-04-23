@@ -1,10 +1,8 @@
 # AB350 Gaming Hackintosh
 My EFI files for my desktop hack. Motherboard is a Gigabyte AB350 Gaming 1.
 
-**I will not be providing support for this EFI, but if you find actual issues with this, you can leave a GitHub issue.**
+**I will not be providing support for this EFI if you have issues copy/pasting it to use yourself but if you find actual issues with the EFI (eg. a boot arg to make it work better), please leave a GitHub issue.**
 Contributions are welcomed to make this better for everyone.
-
-Actual files will be uploaded soon
 
 ## Intended system config
 - A Gigabyte AB350 Gaming 1 motherboard, rev 1.0 on the F50 BIOS
