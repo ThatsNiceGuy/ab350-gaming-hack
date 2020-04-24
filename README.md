@@ -39,6 +39,8 @@ Nevertheless, if you still want to use this entire EFI for your hack, some inten
 These instructions are intentionally vauge as starting fresh with a 'vanilla install' is recommended.
 A vanilla install guide can be found [here](https://dortania.github.io/OpenCore-Desktop-Guide).
 
+---
+
 ## Credits
 - everyone developing for the hackintosh community
 - the [dortania team](https://github.com/orgs/dortania/people)
