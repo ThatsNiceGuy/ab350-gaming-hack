@@ -21,7 +21,7 @@ Contributions are welcomed to make this better for everyone.
 
 ## Known issues
 - Displays sometimes won't initialize properly on boot and nothing will be visible after the graphics driver loads. Workaround is to restart until displays do initialize properly when the video driver loads.
-- Sidecar doesn't work (supposedly other people got it to work but I never could (tried different SMBIOS and many boot args).
+- Sidecar doesn't work - [See here](https://github.com/AMD-OSX/bugtracker/issues/1)
 - Apple Watch simulator in Xcode doesn't work (normal for AMD hacks apparently)
 - Apple Watch unlock sometimes randomly doesn't work 
 
