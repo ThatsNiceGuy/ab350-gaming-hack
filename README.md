@@ -4,6 +4,9 @@ My EFI files for my desktop hack. Motherboard is a Gigabyte AB350 Gaming 1.
 **I will not be providing support for this EFI if you have issues copy/pasting it to use yourself but if you find actual issues with the EFI (eg. a boot arg to make it work better), please leave a GitHub issue.**
 Contributions are welcomed to make this better for everyone.
 
+## Important info
+- Based on OpenCore 0.5.4
+
 ## Intended system config
 - A Gigabyte AB350 Gaming 1 motherboard, rev 1.0 on the F50 BIOS
 - AMD Ryzen 5 1600 CPU
